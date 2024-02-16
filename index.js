@@ -1,7 +1,8 @@
+//Dont copy import the template
 const prompt = require('prompt-sync')();
 
-const x = prompt('Enter x: ');
-const y = prompt('Enter y: ');
-const z = prompt('Enter z: ');
+//Enter code here...
+const x = prompt("Enter your code here: ");
+const y = prompt("Enter your code here: ");
 
-console.log(parseInt(x) + parseInt(y) + parseInt(z));
+console.log(`${y} ${x} ${y}`);
